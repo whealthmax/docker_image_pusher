@@ -5,3 +5,4 @@ calico/kube-controllers:v3.21.6
 calico/pod2daemon-flexvol:v3.21.6
 grafana/grafana-enterprise:latest
 lmsysorg/sglang:latest
+redis/redis-stack:latest
